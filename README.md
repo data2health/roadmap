@@ -5,5 +5,5 @@ Start here to explore the projects and repositories of the Center for Data to He
 
 Phase 2 of CD2H's activities are organized in the following projects:
 
-##[CTS-Personas](https://github/data2health/CTS-Personas)
+## [CTS-Personas](https://github/data2health/CTS-Personas)
 Translational workforce roles and persona profiles
