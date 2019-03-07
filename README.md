@@ -7,3 +7,7 @@ Phase 2 of CD2H's activities are organized in the following projects:
 
 ## [CTS-Personas](https://github.com/data2health/CTS-Personas)
 Translational workforce roles and persona profiles
+
+# Other Information Sources
+
+There are a number of channels active in Slack.
