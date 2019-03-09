@@ -1,5 +1,7 @@
 # roadmap
-Start here to explore the projects and repositories of the Center for Data to Health
+Start here to explore the projects and repositories of the Center for Data to Health.
+
+Check out [CD2H Labs](http://labs.cd2h.org) for access to many of these projects.
 
 # Phase 2 Projects
 ## [architecting_attribution](https://github.com/data2health/architecting_attribution)
