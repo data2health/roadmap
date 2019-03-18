@@ -3,6 +3,16 @@ Start here to explore the projects and repositories of the Center for Data to He
 
 Check out [CD2H Labs](http://labs.cd2h.org) for access to many of these projects.
 
+| - | Resource Discovery and Development | Informatics Maurity and Best Practices | Next Generation Data Sharing and Analytics | Software and Cloud Infrastructure
+-----|------|-----------|------------|-----------
+Data, Standards, & Ontologies| [Science of Translational Science Research Platform](https://github.com/data2health/scits-platform)<br><br> [menRva:an interdisciplinary open research repository](https://github.com/data2health/menRva) | | |
+| ||| 
+|[Educational resource & competency harmonization](https://github.com/data2health/edu-harmonization)
+|[Architecting Attribution](https://github.com/data2health/architecting_attribution)|||
+|[Personas for Clinical & Translational Science](https://github.com/data2health/CTS-Personas)
+
+
+
 # Phase 2 Projects
 ## [architecting_attribution](https://github.com/data2health/architecting_attribution)
 This project aims to provide a mechanism to track and provide attribution for our work.
@@ -36,7 +46,7 @@ menRva: an interdisciplinary open research repository
 Phase I project related to systematic review of the Natural Language Processing field
 ## [rdp-portal](https://github.com/data2health/rdp-portal)
 CD2H project: Reusable Data best practice portal
-## [scits-platform](https://github.com/data2health/scits-platform)
+
 Science of translational science research platform
 ## [sparc-cloud](https://github.com/data2health/sparc-cloud)
 SPARC in the Cloud for CTSA Hubs
