@@ -41,6 +41,4 @@ Science of translational science research platform
 ## [sparc-cloud](https://github.com/data2health/sparc-cloud)
 SPARC in the Cloud for CTSA Hubs
 
-# Other Information Sources
-
-There are a number of channels active in Slack.
+If you're ready to join one or more project teams, please onboard at bit.ly/cd2h-onboarding-form; this will grant you access to the project documents, GitHub repos, and Slack for the whole program. We can help you configure your notifications so that you only get what matters to you.
