@@ -6,10 +6,8 @@ Check out [CD2H Labs](http://labs.cd2h.org) for access to many of these projects
 | - | Resource Discovery and Development | Informatics Maurity and Best Practices | Next Generation Data Sharing and Analytics | Software and Cloud Infrastructure
 -----|------|-----------|------------|-----------
 Data, Standards, & Ontologies| [Science of Translational Science Research Platform](https://github.com/data2health/scits-platform)<br><br> [menRva:an interdisciplinary open research repository](https://github.com/data2health/menRva) | | |
-| ||| 
-|[Educational resource & competency harmonization](https://github.com/data2health/edu-harmonization)
-|[Architecting Attribution](https://github.com/data2health/architecting_attribution)|||
-|[Personas for Clinical & Translational Science](https://github.com/data2health/CTS-Personas)
+Software, Tools, & Algorithms|[Educational resource & competency harmonization](https://github.com/data2health/edu-harmonization)
+People, Expertise, & Attribution |[Architecting Attribution](https://github.com/data2health/architecting_attribution)<br><br>[Personas for Clinical & Translational Science](https://github.com/data2health/CTS-Personas)|||
 
 
 
