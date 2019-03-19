@@ -12,7 +12,7 @@ People, Expertise, & Attribution |[Architecting Attribution](https://github.com/
 If you're ready to join one or more project teams, please onboard at [bit.ly/cd2h-onboarding-form](bit.ly/cd2h-onboarding-form); this will grant you access to the project documents, GitHub repos, and Slack for the whole program. We can help you configure your notifications so that you only get what matters to you.
 
 # All the ways to get involved
-- Onboard to any project team at [bit.ly/cd2h-onboarding-form](https://forms.gle/y5jFprBN1wL46sTGA)
+- Onboard to any project team at [bit.ly/cd2h-onboarding-form](https://forms.gle/y5jFprBN1wL46sTGA); this form requires a Gsuite-enabled account. Could be institutional, gmail, or linked. Getting a gmail is free, but if you are institutionally prohibited from using one, please instead [email us](mailto:data2health+onboarding@gmail.com).
 - Explore some of the demos and prototypes of code avaialble at [CD2H Labs](http://labs.cd2h.org)
 - Attend a community group meeting
 - [Sign up for the CD2H monthly newsletter](https://goo.gl/forms/rRfPbbZOTmvfOFdr2)
