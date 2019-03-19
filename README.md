@@ -3,11 +3,11 @@ Start here to explore the projects and repositories of the Center for Data to He
 
 Check out [CD2H Labs](http://labs.cd2h.org) for access to many of these projects.
 
-| - | Resource Discovery and Development | Informatics Maurity and Best Practices | Next Generation Data Sharing and Analytics | Software and Cloud Infrastructure
+| - | Resource Discovery and Development | Informatics Maurity and Best Practices | Next Generation<br>Data Sharing <br>and Analytics | Software and Cloud Infrastructure
 -----|------|-----------|------------|-----------
 Data, Standards, & Ontologies| [Science of Translational Science Research Platform](https://github.com/data2health/scits-platform)<br>---<br> [menRva:an interdisciplinary open research repository](https://github.com/data2health/menRva) | [Health Open Terminology FHIR server](https://github.com/HOT-FHIR) | [Harmonizing clinical data models and building an adaptor](https://github.com/data2health/data-harmonization)<br>---<br>[LOINC2HPO semantic phenotyping tool](https://github.com/data2health/ehr2HPO.prj)|
-Software, Tools, & Algorithms|[Educational resource & competency harmonization](https://github.com/data2health/edu-harmonization) | [Systematic review of NLP methods](https://github.com/data2health/nlp-review)|[Patient mortality prediction DREAM Challenge]
-People, Expertise, & Attribution |[Architecting Attribution](https://github.com/data2health/architecting_attribution)<br>---<br>[Personas for Clinical & Translational Science](https://github.com/data2health/CTS-Personas)|[Research Informatics and open science maturity model](https://github.com/data2health/maturity-model)<br>---<br>[The BioData Club Kit: supporting data science education in your hub](https://github.com/data2health/biodataclubkit)||
+Software, Tools, & Algorithms|[Educational resource & competency harmonization](https://github.com/data2health/edu-harmonization) | [Systematic review of NLP methods](https://github.com/data2health/nlp-review)|[Patient mortality prediction DREAM Challenge](https://github.com/data2health/DREAM-Challenge)|[Secure cloud-based infrastructure for CTSA hub data sharing](https://github.com/data2health/cloud-sharing)
+People, Expertise, & Attribution |[Architecting Attribution](https://github.com/data2health/architecting_attribution)<br>---<br>[Personas for Clinical & Translational Science](https://github.com/data2health/CTS-Personas)|[Research Informatics and open science maturity model](https://github.com/data2health/maturity-model)<br>---<br>[The BioData Club Kit: supporting data science education in your hub](https://github.com/data2health/biodataclubkit)|[CTSA Data Sharing Governance Pathways](https://github.com/data2health/governance-pathways)<br>---<br>[Reusable Data best practice Portal](https://github.com/data2health/rdp-portal)|
 
 
 
