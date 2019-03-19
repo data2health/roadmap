@@ -13,7 +13,7 @@ If you're ready to join one or more project teams, please onboard at [bit.ly/cd2
 
 # Other ways to get involved
 - Explore some of the demos and prototypes of code avaialble at [CD2H Labs](http://labs.cd2h.org)
-- Attenda a community group meeting
+- Attend a community group meeting
 - [Sign up for the CD2H monthly newsletter](https://goo.gl/forms/rRfPbbZOTmvfOFdr2)
 - [Follow us on Twitter](https://twitter.com/data2health)
 - [Download the one-pager](https://github.com/data2health/roadmap/raw/master/CD2H_QuickFacts_2019-02-28d.pdf)
