@@ -1,7 +1,7 @@
 # Center for Data to Health Phase II Projects
 ## On-ramp
 
-Start here to explore the projects and repositories of the Center for Data to Health.
+Start here to explore the cores, projects and repositories of the Center for Data to Health.
 
 | - | [Resource Discovery and Development](https://github.com/data2health/resource-discovery) | [Informatics Maurity and Best Practices](https://github.com/data2health/informatics-maturity) | [Next Generation<br>Data Sharing <br>and Analytics](https://github.com/data2health/next-gen-data-sharing) | [Tools and Cloud Infrastructure](https://github.com/data2health/tools-cloud-infrastructure)
 -----|------|-----------|------------|-----------
