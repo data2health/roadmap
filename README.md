@@ -17,7 +17,7 @@ If you're ready to join one or more project teams, please onboard at [bit.ly/cd2
 - Attend a community group meeting
 - [Sign up for the CD2H monthly newsletter](https://goo.gl/forms/rRfPbbZOTmvfOFdr2)
 - [Follow us on Twitter](https://twitter.com/data2health)
-- [Download the one-pager](https://github.com/data2health/roadmap/raw/master/CD2H_QuickFacts_2019-02-28d.pdf)
+- [Download the one-pager](https://drive.google.com/file/d/1zCsgcI7pGsrUQCpBgrvwFskis9t7EmlN/view?usp=sharing)
 - [Make a suggestion](https://goo.gl/forms/WXmvqcPucVR68xMf2)
 - [Log an issue](https://github.com/data2health/roadmap/issues/new)
 - [Email us](mailto:data2health@gmail.com)
